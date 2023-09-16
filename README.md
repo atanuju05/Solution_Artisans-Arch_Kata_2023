@@ -35,3 +35,13 @@ The future enhancements in Road Warrior architecture are based upon the long-ter
 * Integrate with SMS, WhatApp and other channels for incoming travel notifications
 * Currently, the application would be built in English. Based on the adoption and usage patterns, internationalization would be introduced in the system
 * Dedicated channel with Travel Agencies for providing intelligence insights
+
+## References
+* [C4 Model](https://c4model.com/)
+* [Fundamentals of Software Architecture](https://learning.oreilly.com/library/view/fundamentals-of-software/9781492043447/)
+* [API Gateway Pattern](https://microservices.io/patterns/apigateway.html) 
+* [Building Microservices](https://learning.oreilly.com/library/view/building-microservices-2nd/9781492034018/)  
+* [Building Event-Driven Microservices](https://learning.oreilly.com/library/view/building-event-driven-microservices/9781492057888/)  
+* [Architecture: The Hard Parts](https://alistair.cockburn.us/hexagonal-architecture/)  
+* [Documenting Software Architectures Views and Beyond](https://learning.oreilly.com/library/view/documenting-software-architectures/9780132488617/)  
+* [Previous Kata Entries](https://github.com/TheMarmots/ArchKatas2022.git)
