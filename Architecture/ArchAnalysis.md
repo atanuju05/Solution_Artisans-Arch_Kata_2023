@@ -44,6 +44,6 @@ Using the analysis of the key non-functional properties above and with the help 
 As shown in the table, Microservices, Service-based and event-based architectures were the most suitable candidates. 
 We selected both the styles for this application
 
-The detailed choice of Microservices architecture is documented in [ADR: MICROARCH](../ADRs/MICROARCH.md).
+The detailed choice of Microservices architecture is documented in [ADR_001_Architecture_Style](../Architecture_Decision_Reports/ADR_001_Architecture_Style.md).
 
 [Previous Page](./Actor-Action-Approach.md) | [Next Page](./C4.md)

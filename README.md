@@ -23,10 +23,11 @@ This is the solution repository for the O'Reilly Summer 2023 Architectural Kata 
 * [Brain Storming](./Architecture/Brain-Storming.md)
 * [Actor / Action Approach](./Architecture/Brain-Storming.md)
 * [Architecture Analysis](./Architecture/ArchAnalysis.md)
-* [High-level Architecture](./GeneralArchitecture.md)
-* [Detailed Architecture](./Architecture/DetailedArch.md)
-* [User-facing Workflows](./ExampleMocks.md)
-* [Architectural Decision Records (ADRs)](./Architectural Decision Records)
+* [The C4 model](./Architecture/C4.md)
+* [Context Diagram](./Architecture/ContextDiagram.md)
+* [Container Diagram](./Architecture/ContainerDiagram.md)
+* [Component Diagram](./Architecture/ComponentDiagram.md)
+* [Architectural Decision Records (ADRs)](./Architecture_Decision_Reports)
 
 ## Future Roadmap
 The future enhancements in Road Warrior architecture are based upon the long-term business requirements and evolvability of the application.
