@@ -13,7 +13,7 @@ We wanted to choose a suitable architecture style for our application.
 
 * Once we started analysing the requirement, we came up with multiple independent services as well as both sync and asyn interactions.
 * Also, our analysis of the NFRs also led us towards microservces and eevent-driven architecture style.
-* Hence we shall use both microservces and eevent-driven architecture style.
+* Hence we shall use both microservces and event-driven architecture style.
 
 
 ## Consequences
