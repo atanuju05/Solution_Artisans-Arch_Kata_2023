@@ -9,7 +9,7 @@ The following drivers are derived from the problem statements.
 3. Generate insights
 
 ### Goals
-The Road Warrior System has the following set of key goals, aimed at improving the quality of travel.
+The Road Warrior System is to provide a convenient and reliable service that can help users plan and manage their travel has the following set of key goals, aimed at improving the quality of travel. The goal consists of the following sub-goals:
 
 1. User always kept up to date with latest information about the travel.
 2. All travel related information made available at Traveler’s fingertips.
