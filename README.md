@@ -1,7 +1,7 @@
 # Architectural Kata: 2023: Road Warrior
 
 ## Introduction
-This is the solution repository for the O'Reilly Summer 2022 Architectural Kata for team Solution Artisans.
+This is the solution repository for the O'Reilly Summer 2023 Architectural Kata for team Solution Artisans.
 									
 ## Members
 
@@ -20,8 +20,8 @@ This is the solution repository for the O'Reilly Summer 2022 Architectural Kata 
 * [Functional Overview](./Functional/functional-overview.md)
 
 ## Solution
-* [Our Strategy](./Architecture/Strategy.md)
-* [Actors, Actions, and Significant Scenarios](./Actors,%20Actions%20&%20Significant%20Scenarios.md)
+* [Brain Storming](./Architecture/Brain-Storming.md)
+* [Actor / Action Approach](./Architecture/Brain-Storming.md)
 * [Architecture Analysis](./Architecture/ArchAnalysis.md)
 * [High-level Architecture](./GeneralArchitecture.md)
 * [Detailed Architecture](./Architecture/DetailedArch.md)

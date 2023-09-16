@@ -9,13 +9,14 @@ The following drivers are derived from the problem statements.
 3. Generate insights
 
 ### Goals
-The Spotlight program has the following set of key goals, aimed at improving the quality of travel.
+The Road Warrior System has the following set of key goals, aimed at improving the quality of travel.
 
 1. User always kept up to date with latest information about the travel.
 2. All travel related information made available at Traveler’s fingertips.
 3. Rich yet easy to use user interface.
-4. Generate summary reports
-5. Generate insights using AI/ML/NLP
+4. A notification function that alerts users of any changes or updates on their bookings, such as flight delays, cancellations, or confirmations.
+5. Generate summary reports
+6. Generate insights using AI/ML/NLP
 
 [Previous Page](./context.md) | [Next Page](./functional-overview.md)
 
