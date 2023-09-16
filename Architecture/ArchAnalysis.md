@@ -4,8 +4,8 @@
 ## Key Non-functional Properties
 In this section we describe the key non-functional properties of the architecture.
 
-#### Availability and Fault-tolarance
-The System requires an availlabity of 99.99%.
+#### Availability and Fault-tolerance
+The System requires an availability of 99.99%.
 
 Evidently, availability is of paramount importance for the system.
 
@@ -23,11 +23,11 @@ Thus Elasticity is a key requirement for the system.
 ## Additional Considerations
 #### Usability
 
-The system needs to provide rich user experience to users as well as making it extreamly simple to navigate. Thus usabitity becomes one of the key matrix for the system..
+The system needs to provide rich user experience to users as well as making it extremely simple to navigate. Thus usability becomes one of the key matrix for the system..
 
 #### Performance
 
-The Traveller dashboard should be extreamly fast.
+The Traveller dashboard should be extremely fast.
 The mobile application has a fast content paint of less than 1.4 seconds and the web application should respond within 800ms.
 
 ### Security
@@ -37,7 +37,7 @@ The system also interacts with multiple external systems. All the integration po
  
 
 ## Architecture Styles
-Using the analsys of the key non-functional properties above and with the help of  the [worksheet](https://www.developertoarchitect.com/downloads/architecture-styles-worksheet.pdf), we compared a few styles and finalized one that will give us the most benefits with respect to the non-functional properties above. 
+Using the analysis of the key non-functional properties above and with the help of  the [worksheet](https://www.developertoarchitect.com/downloads/architecture-styles-worksheet.pdf), we compared a few styles and finalized one that will give us the most benefits with respect to the non-functional properties above. 
 
 ![Architecture Analysis](../artifacts/architecture-styles-worksheet.png)
 

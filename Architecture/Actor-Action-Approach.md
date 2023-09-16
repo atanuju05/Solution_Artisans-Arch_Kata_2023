@@ -9,4 +9,4 @@ Here is how our actor/action diagram look like:
 ![Actor / Action Approach](../artifacts/PlannerSystem-actor-action.png)
 
 
-[Previous Page](./Brain-Storming.md) | [Next Page](./Actor-Action-Approach.md)
+[Previous Page](./Brain-Storming.md) | [Next Page](./ArchAnalysis.md)
