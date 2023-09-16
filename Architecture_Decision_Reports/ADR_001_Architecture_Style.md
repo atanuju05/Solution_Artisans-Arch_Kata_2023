@@ -29,4 +29,4 @@ We wanted to choose a suitable architecture style for our application.
 * Additional complexity: troubleshooting is harder
 
 
-[Home Page](../README.md)
+[Home Page](../README.md) | [ADR Home Page](../Architecture_Decision_Reports)

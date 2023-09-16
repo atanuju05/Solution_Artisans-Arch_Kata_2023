@@ -1,6 +1,6 @@
 ## Add Itinerary Mockup
 
-This is how a Add Itinerary mobile screen will look like:
+This is how an Add Itinerary mobile screen will look like:
 
 ![UI Mockup](../artifacts/Add-trip.png)
 
