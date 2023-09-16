@@ -16,7 +16,7 @@ This is the solution repository for the O'Reilly Summer 2022 Architectural Kata 
 ## Requirement Analysis
 
 * [Business Context](./Functional/context.md)
-* [Functional Overview](./Functional/DriversGoals.md)
+* [Drivers and Goals](./Functional/DriversGoals.md)
 * [Functional Overview](./Functional/functional-overview.md)
 
 ## Solution
