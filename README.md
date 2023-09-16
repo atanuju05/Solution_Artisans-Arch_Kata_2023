@@ -26,7 +26,7 @@ This is the solution repository for the O'Reilly Summer 2023 Architectural Kata 
 * [The C4 model](./Architecture/C4.md)
 * [Context Diagram](./Architecture/ContextDiagram.md)
 * [Container Diagram](./Architecture/ContainerDiagram.md)
-* [Component Diagram](./Architecture/ComponentDiagram.md)
+* [UI Mockup](./Architecture/UI_Mock.md)
 * [Architectural Decision Records (ADRs)](./Architecture_Decision_Reports)
 
 ## Future Roadmap
