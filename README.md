@@ -1,7 +1,8 @@
 # Architectural Kata: 2023: Road Warrior
 
 ## Introduction
-This is the solution repository for the O'Reilly Summer 2022 Architectural Kata for team Solution Art. The repository holds our thought process behind the solution for the Kata - Spotlight App - and propose an architecture satisfying Spotlight's goals.									
+This is the solution repository for the O'Reilly Summer 2022 Architectural Kata for team Solution Artisans.
+									
 ## Members
 
 ## Team Members
@@ -28,9 +29,8 @@ This is the solution repository for the O'Reilly Summer 2022 Architectural Kata 
 * [Architectural Decision Records (ADRs)](./Architectural Decision Records)
 
 ## Future Roadmap
-The future enhancements in Spotlight's architecture are based upon the long-term business requirements and evolvability of the application.
+The future enhancements in Road Warrior architecture are based upon the long-term business requirements and evolvability of the application.
 
-* Enhance the search/match functionality to enable automated offerings suggestions to candidates
-* Increase the number of ways to collaborate by adding group-sharing capabilities
-* Enhance intelligence and accuracy of search/match functionality using AI models
-* Allow non-profits to add samples/trials of their services
+* Integrate with SMS, WhatApp and other channels for incoming travel notifications
+* Currently, the application would be built in English. Based on the adoption and usage patterns, internationalization would be introduced in the system
+* Dedicated channel with Travel Agencies for providing intelligence insights

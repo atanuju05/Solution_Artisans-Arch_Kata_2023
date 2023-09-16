@@ -1,6 +1,6 @@
 ## Functional Overview
 
-The high-level functional requirements for the new Risk System are as follows.
+The high-level functional requirements for the new Road Warrior are as follows.
 
 ![Functional overview](../artifacts/functional-overview.png)
 
