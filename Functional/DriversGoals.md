@@ -20,6 +20,7 @@ The Road Warrior System is to provide a convenient and reliable service that can
 **4. A notification function that alerts users of any changes or updates on their bookings, such as flight delays, cancellations, or confirmations.**  This means that the system should be able to send messages to the user based on certain events or triggers that are related to their bookings. The system should also be able to use different channels and formats to deliver these messages, such as email, SMS, push, web, etc. The system should also be able to allow the user to manage their notification settings and provide feedback on the messages they receive.
 
 **5. Generate summary reports.** This means that the system should be able to create and present reports that can summarize the user’s travel activities and expenses. The system should also be able to customize these reports based on the user’s requirements and preferences, such as date range, category, currency, etc. The system should also be able to export these reports in different formats, such as PDF, Excel, etc.
+
 **6. Generate insights using AI/ML/NLP**
 
 [Previous Page](./context.md) | [Next Page](./functional-overview.md)
