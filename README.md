@@ -1,22 +1,36 @@
-# Solution_Artisans-Arch_Kata_2023
+# Architectural Kata: 2023: Road Warrior
 
-A new startup wants to build the next generation online trip management dashboard to allow travelers to see all of their existing reservations organized by trip either online (web) or through their mobile device.
-• Users: 2 million active users/week 
-     total users: 15 million (user accounts)
-• Requirements:
-•	Poll email looking for travel-related emails
-•	Filter and whitelist certain emails
-•	The system must interface with the agency’s existing airline, hotel, and car rental interface system to update travel details (delays, cancellations, updates, gate changes, etc.). Updates must be in the app within 5 minutes of an update (better than the competition)
-•	Customers should be able to add, update, or delete existing reservations manually as well.
-•	Provide end-of-year summary reports for users with a wide range of metrics about their travel
-•	Usage  Road Warrior gathers analytical data from users trips for various purposes - travel trends, locations, airline and hotel vendor preferences, cancellation and update frequency, and so on.
+## Introduction
+This is the solution repository for the O'Reilly Summer 2022 Architectural Kata for team Solution Art. The repository holds our thought process behind the solution for the Kata - Spotlight App - and propose an architecture satisfying Spotlight's goals.									
+## Members
 
-Additional Context
-•	must integrate seamlessly with existing travel systems (i.e, SABRE, APOLLO)
-•	Must integrate with preferred travel agency for quick problem resolution (help me!)
-•	must work internationally 
+## Team Members
 
+- Atanu Biswas
+- Rajesh Kumar Nair
+- Chandan Singh
+- Amarjeet Kumar
+- Biju Menon
 
-https://github.com/TheMarmots/ArchKatas2022/tree/main
+## Requirement Analysis
 
-https://eur02.safelinks.protection.outlook.com/?url=https%3A%2F%2Fdocs.google.com%2Fforms%2Fd%2Fe%2F1FAIpQLScaC6z0yHQmbqoOVjol6utQkHrRpGQI--FacTEV3cI7Kxb3gw%2Fviewform&data=05%7C01%7Catanu.biswas%40finastra.com%7C9b3f4d81432c4a6a153908dbb302e4c5%7C0b9b90da3fe1457ab340f1b67e1024fb%7C0%7C0%7C638300597421576862%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=%2FVqf3CcIxaGe%2BVoZPmGymLekzmPjRmIRLObi8Wb8fos%3D&reserved=0
+* [Business Context](./Functional/context.md)
+* [Functional Overview](./Functional/DriversGoals.md)
+* [Functional Overview](./Functional/functional-overview.md)
+
+## Solution
+* [Our Strategy](./Architecture/Strategy.md)
+* [Actors, Actions, and Significant Scenarios](./Actors,%20Actions%20&%20Significant%20Scenarios.md)
+* [Architecture Analysis](./Architecture/ArchAnalysis.md)
+* [High-level Architecture](./GeneralArchitecture.md)
+* [Detailed Architecture](./Architecture/DetailedArch.md)
+* [User-facing Workflows](./ExampleMocks.md)
+* [Architectural Decision Records (ADRs)](./Architectural Decision Records)
+
+## Future Roadmap
+The future enhancements in Spotlight's architecture are based upon the long-term business requirements and evolvability of the application.
+
+* Enhance the search/match functionality to enable automated offerings suggestions to candidates
+* Increase the number of ways to collaborate by adding group-sharing capabilities
+* Enhance intelligence and accuracy of search/match functionality using AI models
+* Allow non-profits to add samples/trials of their services
