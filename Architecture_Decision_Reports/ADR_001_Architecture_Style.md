@@ -1,4 +1,4 @@
-# Title: Application will use eventeven microservices architecture
+# Title: Application will use event-driven microservices architecture
 
 ## Status
 
