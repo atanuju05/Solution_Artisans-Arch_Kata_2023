@@ -27,7 +27,7 @@ This is the solution repository for the O'Reilly Summer 2023 Architectural Kata 
 * [Context Diagram](./Architecture/ContextDiagram.md)
 * [Container Diagram](./Architecture/ContainerDiagram.md)
 * [Component Diagram](./Architecture/ComponentDiagram.md)
-* [Trip information Extraction Sequence Diagram](./Architecture/TripExtractionFromEmail.md)
+* [Sequence Diagram](./Architecture/TripExtractionFromEmail.md)
 * [UI Mockup](./Architecture/UI_Mock.md)
 * [Architectural Decision Records (ADRs)](./Architecture_Decision_Reports)
 
